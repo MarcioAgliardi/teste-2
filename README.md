@@ -1,3 +1,3 @@
 # teste-2
-Teste de utilização  do github
-Alteração realizzada pelo Github.
+Teste de utilização  do Github
+Alteração realizada pelo Github.
